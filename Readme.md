@@ -4,7 +4,7 @@
 ## Source Code
 ### Datasources
 - Contains the datasources to store application data.  
-- For this assignment, only InMemoryDataSource is defined with few methods, but we can define as many different data sources as we want and use them for data storage.  
+- For this project, only InMemoryDataSource is defined with few methods, but we can define as many different data sources as we want and use them for data storage.  It basically demonstrates how easily we can add another datasource.
 
 ### Models
 - Contains the models (which store data in memory using the memory datasource).  
